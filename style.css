@@ -14,18 +14,24 @@ body{
  
 .container{
     max-width: 1800px;
-    margin: 0 auto;
+    
+    
     
      
 }
 .apply_box{
     max-width: 900px;
-    padding: 20px;
+    padding: 10px;
     background-color: white;
-    margin: 0 auto;
-    margin-top: 50px;
+    
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 6px;
     box-shadow: 4px 3px 5px rgba(1, 1, 1, 0.1);
-     
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    padding:55px 55px 55px 55px;
 }
 h1{
     display: flex;
